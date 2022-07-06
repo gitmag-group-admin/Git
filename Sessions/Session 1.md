@@ -13,8 +13,7 @@ Git allows us to work together with our team members at the same project and wor
 ### without VCS
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/1.JPG
-" width="600" />
+<img src="https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/1.JPG" width="600" />
 </p>
 
 ### Types of VCS
@@ -25,14 +24,12 @@ Git allows us to work together with our team members at the same project and wor
 
 - **Centralized** :
 <p align="center">
-<img src="https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/44.JPG
-" width="600" />
+<img src="https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/44.JPG" width="600" />
 </p>
 
 - **Distributed** :
 <p align="center">
-<img src="https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/5.JPG
-" width="600" />
+<img src="https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/5.JPG" width="600" />
 </p>
 
 ## Features of Git
@@ -47,8 +44,7 @@ Git allows us to work together with our team members at the same project and wor
 ## Benefits of using Git
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/3.png
-" width="600" />
+<img src="https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/3.png" width="600" />
 </p>
 
 ## Using Git
