@@ -19,7 +19,7 @@ Git allows us to work together with our team members at the same project and wor
 ### Types of VCS
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/1.JPG" width="300" />
+<img src="https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/2.png" width="300" />
 </p>
 
 - **Centralized** :
