@@ -30,13 +30,13 @@ It is the default level in Git. Git config will write to a local level if no con
 **Setting username**
 The username is used by the Git for each commit.
 ```
-$ git config --global user.name "Alireza Bayanifar"
+$ git config --global user.name "Ali Bayani"
 ```
 
 **Setting email**
 The Git uses this email id for each commit.
 ```
-$ git config --global user.email "Alirezabayanifar@gmail.com"
+$ git config --global user.email "Alibayani@gmail.com"
 ```
 
 **Setting editor**
