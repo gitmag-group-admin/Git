@@ -48,7 +48,7 @@ $ git config --global core.editor Vim
 ```
 **Checking Your Settings**
 ```
-$ git config -list
+$ git config --list
 ```
 OR in editors use this :
 ```
