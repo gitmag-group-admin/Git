@@ -1,4 +1,4 @@
-# initialize Git - Git workflow - Git status
+# initialize Git - Git status - Git workflow 
 
 ## Git init
 The git init command is the first command that you will run on Git. The git init command is used to create a new blank repository. It is used to make an existing project as a Git project.
@@ -12,12 +12,6 @@ We can create a repository for blank and existing projects. Let’s understand h
 ```
 $ git init
 ```
-
-## Git workflow
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/88.JPG" width="750" />
-</p>
 
 ## Git status
 
@@ -33,3 +27,9 @@ we are going to check status when:
 2.  a new file is created
 3.  an existing file is modified
 4.  a file is deleted
+
+## Git workflow
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/88.JPG" width="750" />
+</p>
