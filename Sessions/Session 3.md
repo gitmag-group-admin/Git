@@ -16,7 +16,7 @@ $ git init
 ## Git workflow
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/8.JPG" width="750" />
+<img src="[https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/8.JPG](https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/8.JPG)" width="750" />
 </p>
 
 ## Git status
