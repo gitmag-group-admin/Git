@@ -42,8 +42,6 @@ in `vs code` we must type our message in two section:
 1. short description
 2. long description
 
-### working directory clean
-### when must to commit the changes?
 
 ## Skipping the Staging area
 to do this :
