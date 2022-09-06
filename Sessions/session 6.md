@@ -8,10 +8,6 @@ $ git restore --staged file.txt
 ```
 now if you see, the `file.txt` is restored from staging area.
 
-two ways :
-1. file1.txt : MM
-2. file2.txt : A  _
-
 ## Discarding local changes
 
 ```git
