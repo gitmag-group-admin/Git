@@ -1,7 +1,7 @@
 ﻿# Branching and merging
 A branch is a version of the repository that diverges from the main working project. It is a feature available in most modern version control systems. A Git project can have more than one branch. These branches are a pointer to a snapshot of your changes. When you want to add a new feature or fix a bug, you spawn a new branch to summarize your changes. So, it is complex to merge the unstable code with the main code base and also facilitates you to clean up your future history before merging with the main branch.
 
-![enter image description here](https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/branch1.PNG)
+![enter image description here](https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/eev37hwxalgf019j42a9.webp)
 
 
 ## list branch
