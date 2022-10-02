@@ -4,6 +4,8 @@ A branch is a version of the repository that diverges from the main working proj
 ![enter image description here](https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/eev37hwxalgf019j42a9.webp)
 
 
+![enter image description here](https://raw.githubusercontent.com/gitmag-group-admin/Git/main/img/branch1.PNG)
+
 ## list branch
 
 using `$ git branch` or `$ git branch --list` commands we can see all the branches on our project.
